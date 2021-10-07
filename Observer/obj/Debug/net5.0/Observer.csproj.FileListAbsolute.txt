@@ -1,0 +1,15 @@
+/Users/natalie/RiderProjects/Observer/bin/Debug/net5.0/Observer.deps.json
+/Users/natalie/RiderProjects/Observer/bin/Debug/net5.0/Observer.runtimeconfig.json
+/Users/natalie/RiderProjects/Observer/bin/Debug/net5.0/Observer.runtimeconfig.dev.json
+/Users/natalie/RiderProjects/Observer/bin/Debug/net5.0/Observer.dll
+/Users/natalie/RiderProjects/Observer/bin/Debug/net5.0/ref/Observer.dll
+/Users/natalie/RiderProjects/Observer/bin/Debug/net5.0/Observer.pdb
+/Users/natalie/RiderProjects/Observer/obj/Debug/net5.0/Observer.csprojAssemblyReference.cache
+/Users/natalie/RiderProjects/Observer/obj/Debug/net5.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalie/RiderProjects/Observer/obj/Debug/net5.0/Observer.AssemblyInfoInputs.cache
+/Users/natalie/RiderProjects/Observer/obj/Debug/net5.0/Observer.AssemblyInfo.cs
+/Users/natalie/RiderProjects/Observer/obj/Debug/net5.0/Observer.csproj.CoreCompileInputs.cache
+/Users/natalie/RiderProjects/Observer/obj/Debug/net5.0/Observer.dll
+/Users/natalie/RiderProjects/Observer/obj/Debug/net5.0/ref/Observer.dll
+/Users/natalie/RiderProjects/Observer/obj/Debug/net5.0/Observer.pdb
+/Users/natalie/RiderProjects/Observer/obj/Debug/net5.0/Observer.genruntimeconfig.cache
