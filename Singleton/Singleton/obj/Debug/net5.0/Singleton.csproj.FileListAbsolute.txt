@@ -1,0 +1,16 @@
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\bin\Debug\net5.0\Singleton.exe
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\bin\Debug\net5.0\Singleton.deps.json
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.json
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\bin\Debug\net5.0\Singleton.runtimeconfig.dev.json
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\bin\Debug\net5.0\Singleton.dll
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\bin\Debug\net5.0\ref\Singleton.dll
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\bin\Debug\net5.0\Singleton.pdb
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\obj\Debug\net5.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfoInputs.cache
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\obj\Debug\net5.0\Singleton.AssemblyInfo.cs
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\obj\Debug\net5.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\obj\Debug\net5.0\Singleton.dll
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\obj\Debug\net5.0\ref\Singleton.dll
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\obj\Debug\net5.0\Singleton.pdb
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\obj\Debug\net5.0\Singleton.genruntimeconfig.cache
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Singleton\Singleton\obj\Debug\net5.0\Singleton.csproj.AssemblyReference.cache
