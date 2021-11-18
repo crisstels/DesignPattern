@@ -1,0 +1,15 @@
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\bin\Debug\net5.0\Composite.exe
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\bin\Debug\net5.0\Composite.deps.json
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\bin\Debug\net5.0\Composite.runtimeconfig.json
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\bin\Debug\net5.0\Composite.runtimeconfig.dev.json
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\bin\Debug\net5.0\Composite.dll
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\bin\Debug\net5.0\ref\Composite.dll
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\bin\Debug\net5.0\Composite.pdb
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\obj\Debug\net5.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\obj\Debug\net5.0\Composite.AssemblyInfoInputs.cache
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\obj\Debug\net5.0\Composite.AssemblyInfo.cs
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\obj\Debug\net5.0\Composite.csproj.CoreCompileInputs.cache
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\obj\Debug\net5.0\Composite.dll
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\obj\Debug\net5.0\ref\Composite.dll
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\obj\Debug\net5.0\Composite.pdb
+D:\Users\NatalieHasselmann\Documents\3.Lehrjahr\DesignPattern\Composite\Composite\obj\Debug\net5.0\Composite.genruntimeconfig.cache
